@@ -1,1 +1,3 @@
-Estou aprendendo git e github, em seguida vou aprender gitHub
+Estou aprendendo git, em seguida vou aprender gitHub
+
+Agora basta treinar muito!
