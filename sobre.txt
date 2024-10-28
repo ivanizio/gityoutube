@@ -1,3 +1,4 @@
 Estou aprendendo git, em seguida vou aprender gitHub
 
 Agora basta treinar muito!
+Só assim poderemos aprender a programar
